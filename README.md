@@ -22,3 +22,12 @@ DocumentRoot “C:/xampp/<repository path>”
 
 
 ## Datenbank setup (script)
+
+Windows command for accessing mysql from xampp
+
+cd c:\xampp\mysql\bin
+mysql.exe -u root --password
+
+MAC command
+
+/Applications/xampp/xamppfiles/bin/mysql -uroot -p
